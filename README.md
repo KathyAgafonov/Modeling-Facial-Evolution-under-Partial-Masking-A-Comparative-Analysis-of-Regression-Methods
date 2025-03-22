@@ -2,6 +2,8 @@
 
 This repository explores how different regression models predict a craniofacial measurement (`head_width`) when part of the data is artificially masked, simulating incomplete observations. Three models—HistGradientBoosting (HGB), Random Forest (RF), and a Neural Network (NN)—are compared using mean squared error (MSE) and the coefficient of determination (\(R^2\)) on extracted facial features.
 
+[*Link to Colab Notebook*](https://colab.research.google.com/drive/1Vg5WS6h-NqliuoBrTRTo3_iOADWLvp4T#scrollTo=ZKgvo3zDdu-B)
+
 ## 1. Overview
 
 - **Data Source**  
